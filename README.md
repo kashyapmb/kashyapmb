@@ -13,7 +13,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kashyap-bavadiya-0485a2236/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashyap-bavadiya-0485a2236/) 
 [![Codechef](https://img.shields.io/badge/Codechef-522f18.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/kashyap_mb) 
 [![Leetcode](https://img.shields.io/badge/Leetcode-f4901d.svg?logo=leetcode&logoColor=white)](https://leetcode.com/kashyap_mb/) 
 [![Codeforces](https://img.shields.io/badge/Codeforces-198fcd.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/kashyap_111/) 
